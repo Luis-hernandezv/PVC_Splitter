@@ -1,2 +1,2 @@
-# PVC_Splitter
-this is intended to use a conventional 3/4" in PVC "T" Pipe fitting
+![if you can read this i messed up somewere](isometrico.png)
+![if you can read this i messed up somewere](seccion.png)
